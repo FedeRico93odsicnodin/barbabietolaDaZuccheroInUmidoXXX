@@ -29,6 +29,7 @@ namespace PedobusDigitaleApp
 		protected override void OnResume ()
 		{
 			// Handle when your app resumes
+            // this is a random comments
 		}
 	}
 }
