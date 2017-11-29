@@ -30,6 +30,7 @@ namespace PedobusDigitaleApp
 		{
 			// Handle when your app resumes
             // this is a random comments
+            // this is a random comment 2
 		}
 	}
 }
